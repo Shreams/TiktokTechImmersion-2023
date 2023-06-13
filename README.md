@@ -1,5 +1,7 @@
 # TiktokTechImmersion-2023
 
+Name: Hong Sheng Yang
+
 Assignment
 Design and implement a backend Instant Messaging system.
 
